@@ -63,9 +63,9 @@ Payment gateway
 Order history and checkout system
 
 👨‍🎓 Author
-Anubhaw Sharma
-Diploma in Computer Science Engineering
-Gulzar Group of Institutes
+*Anubhaw Sharma
+*Diploma in Computer Science Engineering
+*Gulzar Group of Institutes
 
 ⭐ Acknowledgements
 MDN Web Docs
